@@ -39,3 +39,6 @@ def jogo_adivinhacao():
 
 # Executa o jogo
 jogo_adivinhacao()
+
+Run in Python - IDE - Vscode
+& C:/ProgramData/anaconda3/python.exe 'C:\Users\Paulo6281\Desktop\arquivo\JogoAdivinhacao com limite de tentativas.py'
